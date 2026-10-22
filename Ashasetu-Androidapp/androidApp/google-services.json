@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312175528219",
+    "project_id": "seva-sethu-1ae78",
+    "storage_bucket": "seva-sethu-1ae78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312175528219:android:cebf16080d809512ca6bbe",
+        "android_client_info": {
+          "package_name": "com.byteclub.ashasetu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGdz8FraPdTO-UiXEFEIBMM8CSTgk0xSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

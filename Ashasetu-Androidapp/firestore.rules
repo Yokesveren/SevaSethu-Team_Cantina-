@@ -1,0 +1,38 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    match /patients/{patientId} {
+      allow read, write: if isAuthenticated();
+    }
+
+    match /triage_cases/{caseId} {
+      allow read, write: if isAuthenticated();
+      match /stream/{msgId} {
+        allow read, write: if isAuthenticated();
+      }
+    }
+
+    match /sos_alerts/{alertId} {
+      allow read, write: if isAuthenticated();
+    }
+
+    match /frontline_workers/{ashaId} {
+      allow read, write: if isAuthenticated();
+    }
+
+    match /referrals/{referralId} {
+      allow read, write: if isAuthenticated();
+    }
+    match /follow_ups/{followUpId} {
+      allow read, write: if isAuthenticated();
+    }
+    match /facilities_directory/{facilityId} {
+      allow read: if isAuthenticated();
+      allow write: if false;
+    }
+  }
+}
