@@ -373,10 +373,5 @@ Honest scoping matters more than a long feature list.
 
 ## 👥 Team
 
-Built by **Team ByteClub** for Smart India Hackathon, PS 26133.
+Built by **Team Cantina**.
 
-<!-- Add team member names, roles and links here -->
-
-## 📄 License
-
-Add your chosen licence here (for example MIT or Apache-2.0).
