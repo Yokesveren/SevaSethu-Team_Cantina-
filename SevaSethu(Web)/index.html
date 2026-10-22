@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="<!-- figma:lang -->">
+  <head>
+    <!-- figma:head-start -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SeVaSetu — National PHC Management Portal | MoHFW</title>
+    <link rel="icon" type="image/png" href="/sevasetu-logo.png" />
+    <script>
+      (function() {
+        try {
+          var realFetch = window.fetch;
+          Object.defineProperty(window, 'fetch', {
+            get: function() { return realFetch; },
+            set: function(val) { realFetch = val; },
+            configurable: true,
+            enumerable: true
+          });
+        } catch (e) {}
+      })();
+    </script>
+    <!-- figma:head-end -->
+  </head>
+  <body>
+    <!-- figma:body-start -->
+    <div id="root"></div>
+    <script>
+      window.addEventListener('error', (event) => {
+        if (event.error instanceof TypeError && event.error.message.includes('fetch')) {
+          event.preventDefault();
+          event.stopImmediatePropagation();
+        }
+      });
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+    <!-- figma:body-end -->
+  </body>
+</html>
