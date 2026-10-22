@@ -301,11 +301,6 @@ Evaluator accounts are provisioned in a seeded demo project and are intentionall
 
 ## 👥 Team
 
-Built by **Team ByteClub** for Smart India Hackathon, PS 26133.
+Built by **Team Cantina**
 
-<!-- Add team member names and links here -->
 
-## 📄 License
-
-Add your chosen licence here.
-  
