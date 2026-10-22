@@ -38,7 +38,7 @@ ASHA workers are the first point of care for millions of people, yet they often 
 ## ✨ Features
 
 ### 🎙️ 1. Multilingual voice triage
-- Voice input in **Marathi (`mr-IN`)**, **Hindi (`hi-IN`)**, **Tamil (`ta-IN`)** and **English (`en-IN`)** using Android's native speech recognizer.
+- Voice input in **Marathi (`mr-IN`)**, **Hindi (`hi-IN`)**, **Tamil (`ta-IN`)** and **Kannada (`ka-IN`)**  using Android's native speech recognizer.
 - **Symptom extractor** matches clinical terms across all four languages (for example severe headache, vaginal bleeding, chest pain, high fever, reduced fetal movement, convulsions).
 - **Vitals extractor** turns spoken numbers into structured vitals such as blood pressure, pulse, SpO₂ and haemoglobin ("BP 160 by 110", "SpO2 94 percent").
 
