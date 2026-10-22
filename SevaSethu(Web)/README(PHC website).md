@@ -151,16 +151,17 @@ flowchart TD
    ```
 
 3. **Configure Environment**:
-   Create a `.env` file in the root directory (already pre-configured for `seva-sethu-1ae78`):
+   Copy `.env.example` to `.env` and fill in your Firebase credentials:
    ```env
-   VITE_FIREBASE_API_KEY=AIzaSyB0zLW1Q9aFdqyfUeE3CAXPe_YYpHpfB_o
-   VITE_FIREBASE_AUTH_DOMAIN=seva-sethu-1ae78.firebaseapp.com
-   VITE_FIREBASE_PROJECT_ID=seva-sethu-1ae78
-   VITE_FIREBASE_STORAGE_BUCKET=seva-sethu-1ae78.firebasestorage.app
-   VITE_FIREBASE_MESSAGING_SENDER_ID=312175528219
-   VITE_FIREBASE_APP_ID=1:312175528219:web:81ad1ab2e59d960bca6bbe
-   VITE_FIREBASE_MEASUREMENT_ID=G-7M8WJFJGW9
+   VITE_FIREBASE_API_KEY=YOUR_API_KEY_HERE
+   VITE_FIREBASE_AUTH_DOMAIN=YOUR_PROJECT_ID.firebaseapp.com
+   VITE_FIREBASE_PROJECT_ID=YOUR_PROJECT_ID
+   VITE_FIREBASE_STORAGE_BUCKET=YOUR_PROJECT_ID.firebasestorage.app
+   VITE_FIREBASE_MESSAGING_SENDER_ID=YOUR_MESSAGING_SENDER_ID
+   VITE_FIREBASE_APP_ID=YOUR_APP_ID
+   VITE_FIREBASE_MEASUREMENT_ID=YOUR_MEASUREMENT_ID
    ```
+   > **Note:** Never commit your real `.env` file. It is excluded by `.gitignore`.
 
 4. **Launch the Development Server**:
    ```bash
