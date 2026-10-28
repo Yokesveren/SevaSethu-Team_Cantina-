@@ -14,6 +14,7 @@
 </div>
 
 > **Disclaimer:** SevaSetu is an independent hackathon prototype. It is not an official Government of India product and is not affiliated with MoHFW, NHM, NHA or any state health department. It is clinical **decision-support** software, not a certified medical device.
+>**Imp Note:** We have implemented Hardware just to address the Offline Scenario in the hilly taluks and villages. It is just an additional part of our project and doesn't influence **Final-product**. **We the team Cantina, promise that we do have knowledge that Devhack'26 is fully software-based and we do abide by that ,and we do respect it**
 
 ---
 
