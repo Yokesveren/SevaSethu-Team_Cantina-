@@ -9,12 +9,29 @@
 ![ABDM](https://img.shields.io/badge/Identity-ABHA%20aligned-ff9933?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working%20Prototype-6b7280?style=for-the-badge)
 
-[The Problem](#-the-problem) · [Our Solution](#-our-solution) · [Architecture](#-system-architecture) · [Workflows](#-end-to-end-workflows) · [Engines](#-core-engines) · [Integrations](#-integration-first-not-reinvention-first) · [Build Status](#-implementation-status) · [FAQ](#-faq)
+[🚀 Live Demo](#-live-demo--videos) · [The Problem](#-the-problem) · [Our Solution](#-our-solution) · [Architecture](#-system-architecture) · [Workflows](#-end-to-end-workflows) · [Engines](#-core-engines) · [Integrations](#-integration-first-not-reinvention-first) · [Build Status](#-implementation-status) · [FAQ](#-faq)
 
 </div>
 
 > **Disclaimer:** SevaSetu is an independent hackathon prototype. It is not an official Government of India product and is not affiliated with MoHFW, NHM, NHA or any state health department. It is clinical **decision-support** software, not a certified medical device.
 >**Imp Note:** We have implemented Hardware just to address the Offline Scenario in the hilly taluks and villages. It is just an additional part of our project and doesn't influence **Final-product**. **We the team Cantina, promise that we do have knowledge that Devhack'26 is fully software-based and we do abide by that ,and we do respect it**
+
+---
+
+## 🚀 Live Demo & Videos
+
+| Resource | Link |
+| :--- | :--- |
+| 🌐 **Deployed PHC Portal** | [**Open the live app →**](https://YOUR-DEPLOYMENT-LINK) |
+| 🎬 **Video 1: Project Walkthrough / Demo** | [**Watch on YouTube →**](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_1) |
+| 🎬 **Video 2: Technical Deep-Dive / Offline & LoRa Demo** | [**Watch on YouTube →**](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_2) |
+
+<div align="center">
+
+[![Video 1: Project Walkthrough](https://img.youtube.com/vi/YOUR_VIDEO_ID_1/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_1)
+[![Video 2: Technical Deep-Dive](https://img.youtube.com/vi/YOUR_VIDEO_ID_2/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_2)
+
+</div>
 
 ---
 
@@ -375,4 +392,3 @@ Honest scoping matters more than a long feature list.
 ## 👥 Team
 
 Built by **Team Cantina**.
-
