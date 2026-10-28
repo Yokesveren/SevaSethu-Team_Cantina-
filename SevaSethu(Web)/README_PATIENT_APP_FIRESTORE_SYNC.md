@@ -1,7 +1,6 @@
 # 📱 SeVaSetu — Patient Mobile App ↔ Firestore Integration Guide
 
-> **Official Specification: Segmented Longitudinal Health Records & ABHA Sync**  
-> **Source of Truth:** SIH Problem Statement ID: 26133 & ABDM FHIR R4 Standards  
+> **Official Specification: Segmented Longitudinal Health Records & ABHA Sync**   
 > **Portal:** SeVaSetu National PHC Management Portal (React 19 + TypeScript)  
 > **Target Consumer:** Patient Mobile App (Flutter / Android Kotlin / iOS Swift / React Native)
 
