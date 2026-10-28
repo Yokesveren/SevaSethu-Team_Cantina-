@@ -3,7 +3,7 @@
 # SevaSetu — सेवासेतु
 ### The offline-first data layer that connects ASHA workers, PHCs and district hospitals in hilly taluks of karnataka.
 
-![SIH](https://img.shields.io/badge/SIH-PS%2026133-0a2540?style=for-the-badge)
+
 ![Offline First](https://img.shields.io/badge/Architecture-Offline--First-138808?style=for-the-badge)
 ![FHIR](https://img.shields.io/badge/Data%20Model-FHIR%20R4%20aligned-0284c7?style=for-the-badge)
 ![ABDM](https://img.shields.io/badge/Identity-ABHA%20aligned-ff9933?style=for-the-badge)
