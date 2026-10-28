@@ -22,7 +22,7 @@
 
 | Resource | Link |
 | :--- | :--- |
-| 🌐 **Deployed PHC Portal** | [**Open the live app →**](https://YOUR-DEPLOYMENT-LINK) |
+| 🌐 **Deployed PHC Portal** | [**Open the live app →**](https://sevasethu-web.vercel.app/) |
 | 🎬 **Video 1: Project Walkthrough / Demo** | [**Watch on YouTube →**](https://www.youtube.com/watch?v=ap-gmuTtrpQ) |
 | 🎬 **Video 2: Animated demo** | [**Watch on YouTube →**](https://www.youtube.com/watch?v=CpFEbZ00S2Y) |
 
