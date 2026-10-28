@@ -1,7 +1,6 @@
 # 📱 SeVaSetu — ASHA Worker Android App ↔ Firestore Integration Guide
 
 > **Official Integration Specification & Schema Blueprint**  
-> **Source of Truth:** `SevaSetu_Prd.docx` (SIH Problem Statement ID: 26133)  
 > **Target Environment:** Android Studio (Kotlin, Jetpack Compose, Room Database, Cloud Firestore, WorkManager)  
 > **Web Portal:** SeVaSetu PHC Management Portal (React 19, TypeScript, Tailwind CSS v4)
 
