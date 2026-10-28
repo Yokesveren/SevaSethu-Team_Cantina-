@@ -23,8 +23,11 @@
 | Resource | Link |
 | :--- | :--- |
 | 🌐 **Deployed PHC Portal** | [**Open the live app →**](https://YOUR-DEPLOYMENT-LINK) |
-| 🎬 **Video 1: Project Walkthrough / Demo** | [**Watch on YouTube →**](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_1) |
-| 🎬 **Video 2: Technical Deep-Dive / Offline & LoRa Demo** | [**Watch on YouTube →**](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_2) |
+| 🎬 **Video 1: Project Walkthrough / Demo** | [**Watch on YouTube →**](https://youtu.be/ap-gmuTtrpQ
+) |
+| 🎬 **Video 2: Animated Video** | [**Watch on YouTube →**]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID_2)](https://youtu.be/CpFEbZ00S2Y
+)<img width="519" height="75" alt="image" src="https://github.com/user-attachments/assets/4383c81a-c74e-46c1-ad67-1d0f30d7432a" />
+ |
 
 <div align="center">
 
